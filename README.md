@@ -196,25 +196,3 @@ By completing this project, I gained hands-on experience with:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Rahul Choudhary**
-
-B.Tech in Electronics & Communication Engineering | SVNIT Surat
-
-Aspiring **Data Analyst | Business Analyst | Machine Learning Enthusiast**
-
-### Connect with Me
-
-- **GitHub:** https://github.com/Rahulchoudhary-14
-- **LinkedIn:** *(Add your LinkedIn profile URL here)*
-
----
-
-⭐ If you found this project useful, consider giving it a **Star** on GitHub!
